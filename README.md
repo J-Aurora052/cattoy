@@ -72,5 +72,5 @@ CatToy 是一个涉及图像数据处理、三维重建、模型训练和渲染�
 - 在运行 COLMAP 时，确保系统中已经安装了 COLMAP 软件。
 - 配置文件中的参数可以根据实际需求进行调整，以获得更好的训练和渲染效果。
 - 数据路径和文件名需要根据实际情况进行修改，确保程序能够正确读取和保存数据。
-## 六、参考：git@github.com:apchenstu/TensoRF.git
+## 六、参考：[TensoRF 仓库](https://github.com/apchenstu/TensoRF)
     
